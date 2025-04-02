@@ -8,9 +8,5 @@
 
 I'm working on a personal site with a portfolio and blog, check back soon!
 
-![Top Languages Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=agoldstein03&theme=dark)
-
-![GitHub Activity Statistics](https://github-readme-stats.vercel.app/api?username=agoldstein03&theme=dark)
-
 <img src="https://komarev.com/ghpvc/?username=agoldstein03" alt="agoldstein03" /> </p>
 
